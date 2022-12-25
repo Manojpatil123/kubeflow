@@ -6,9 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Medium][medium-shield]][medium-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
+
 
 # Kubeflow Pipelines: How to Build your First Kubeflow Pipeline from Scratch
 This repository aims to develop a step-by-step tutorial on how to build a Kubeflow Pipeline from scratch in your local machine.
@@ -51,13 +49,7 @@ Feel free to fork the model and add your own suggestiongs.
 4. Push to the Branch (`git push origin feature/YourGreatFeature`)
 5. Open a Pull Request
 
-<!-- contact -->
-## 5. Contact
-If you have any question, feel free to reach me out at:
-* <a href="https://twitter.com/Fernando_LpzV">Twitter</a>
-* <a href="https://medium.com/@fer.neutron">Medium</a>
-* <a href="https://www.linkedin.com/in/fernando-lopezvelasco/">Linkedin</a>
-* Email: fer.neutron@gmail.com
+
 
 <!-- license -->
 ## 6. License
@@ -66,9 +58,3 @@ Distributed under the MIT License. See ``LICENSE.md`` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[medium-shield]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/@fer.neutron
-[twitter-shield]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/Fernando_LpzV
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/fernando-lopezvelasco/
