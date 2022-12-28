@@ -13,9 +13,6 @@ This repository aims to develop a step-by-step tutorial on how to build a Kubefl
 
 If you want to know in detail about the detailed explanation of how to develop your first kubeflow pipeline, I recommend you take a look at the article: <a href="Kubeflow Pipelines: How to Build your First Kubeflow Pipeline from Scratch"> *Kubeflow Pipelines: How to Build your First Kubeflow Pipeline from Scratch*</a>
 
-<p align="center">
-<img src='img/kubeflow.jpg'>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
